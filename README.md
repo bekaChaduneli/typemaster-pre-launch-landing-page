@@ -25,7 +25,6 @@
 - Flexbox
 - Mobile-first workflow
 - CSS Grid
-- Flexbox
 
 ## Author
 
